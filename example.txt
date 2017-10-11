@@ -1,3 +1,4 @@
 File name is example.txt.
 compile time example.
-Akshar chaklashiya
+Akshar chaklashiya.
+This is for testing clone vs pull.
