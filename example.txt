@@ -2,6 +2,7 @@ File name is example.txt.
 compile time example.
 Akshar chaklashiya.
 This is for testing clone vs pull.
+<<<<<<< HEAD
 This is change form browser.
 
 
@@ -15,3 +16,26 @@ This is change form browser.
 8
 9
 10
+=======
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+This is done in child brach.
+
+
+
+
+*********************************************************************************
+
+
+This is form master brach and final add.
+
+
+
+-----------------------------------------------------------------------------------
+
+
+brach - master.
+>>>>>>> child
