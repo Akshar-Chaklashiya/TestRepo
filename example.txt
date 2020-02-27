@@ -2,34 +2,3 @@ File name is example.txt.
 compile time example.
 Akshar chaklashiya.
 This is for testing clone vs pull.
-
-
-//////////////////////////////////////////////////////////////////////////////
-
-
-This is done in child brach.
-
-
-
-
-*********************************************************************************
-
-
-This is form master brach and final add.
-
-
-
------------------------------------------------------------------------------------
-
-
-brach - master.
-
-
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-branch-change for testing rebase
-
